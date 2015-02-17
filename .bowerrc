@@ -1,0 +1,5 @@
+{
+  "directory": "bower_components",
+  "proxy":"http://demuprx-fiesprx.glb.nsn-net.net:8080",
+  "https-proxy":"http://demuprx-fiesprx.glb.nsn-net.net:8080"
+}
